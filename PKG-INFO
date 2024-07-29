@@ -1,9 +1,0 @@
-Metadata-Version: 2.1
-Name: BioInformat
-Version: 3.8.5.1
-Summary: This package allows for HTTP NTLM authentication using the BioInformats library.
-Author: Composable HTTP middleware for BioInformats
-Classifier: Programming Language :: Python :: 3
-Classifier: Operating System :: OS Independent
-Classifier: License :: OSI Approved :: MIT License
-License-File: LICENSE.txt
